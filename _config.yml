@@ -112,10 +112,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "François-Xavier Cat"
+  name             : "John Doe"
   avatar           : '/assets/images/powershell.png' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Systems Engineer"
-  location         : "San Francisco Bay"
+  bio              : "IT Consultant"
+  location         : "Porto"
+  country          : "Portugal"
   email            :
   links:
     - label: "Email"
