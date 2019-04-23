@@ -13,8 +13,8 @@ published: true
 header:
   teaserlogo:
   teaser: ''
-  image: images/headers/mountain01_1920x500.jpg
-  caption: 'unsplash.com'
+  image: ''
+  caption: ''
 gallery:
   - image_path: ''
     url: ''
