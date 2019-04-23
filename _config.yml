@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" #"default" # "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LazyWinAdmin"
+title                    : "Architecture, Configuration and Security in the Hybrid Cloud"
 title_separator          : "-"
 name                     : "Francois-Xavier Cat"
 description              : "Scripting and Automation"
