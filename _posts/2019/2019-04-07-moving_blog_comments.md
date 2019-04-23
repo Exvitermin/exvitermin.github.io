@@ -10,11 +10,6 @@ tags:
 categories:
   - powershell
 published: true
-header:
-  teaserlogo:
-  teaser: ''
-  image: ''
-  caption: ''
 gallery:
   - image_path: ''
     url: ''
