@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "default" #"default" # "air", "aqua", "contrast", "da
 locale                   : "en-US"
 title                    : "Architecture, Configuration and Security in the Hybrid Cloud"
 title_separator          : "-"
-name                     : "Francois-Xavier Cat"
+name                     : "John Dow"
 description              : "Scripting and Automation"
 url                      : https://itops.pt # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : lazywinadmin/lazywinadmin.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : Ricardo-Garrido/Ricardo-Garrido.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/powershell.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -89,7 +89,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : lazywinadmin
+  username               : ricardosantosgarrido
 facebook:
   username               :
   app_id                 :
