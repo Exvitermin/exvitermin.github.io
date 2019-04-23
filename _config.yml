@@ -115,8 +115,7 @@ author:
   name             : "John Doe"
   avatar           : '/assets/images/powershell.png' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IT Consultant"
-  location         : "Porto"
-  country          : "Portugal"
+  location         : "Porto, Portugal"
   email            :
   links:
     - label: "Email"
