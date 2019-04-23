@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "François-Xavier Cat"
-  avatar           : '/images/avatar/bio03.jpg' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : '/assets/images/powershell.png' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Systems Engineer"
   location         : "San Francisco Bay"
   email            :
