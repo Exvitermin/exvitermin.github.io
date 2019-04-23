@@ -20,11 +20,11 @@ title                    : "LazyWinAdmin"
 title_separator          : "-"
 name                     : "Francois-Xavier Cat"
 description              : "Scripting and Automation"
-url                      : https://lazywinadmin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://itops.pt # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : lazywinadmin/lazywinadmin.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/lazywinadmin-88x55.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/powershell.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

@@ -12,18 +12,20 @@ main:
   #   url: /sitemap/
   #- title: "Blog"
   #  url: /
-  - title: "Disclaimer"
-    url: /disclaimer.html
-  - title: "About"
-    url: /about.html
+  - title: "Notebooks"
+    url: /notebooks.html
 #  - title: "Tags"
 #    url: /tags
-  - title: "Projects/Scripts"
-    url: /p/scripts.html
-  - title: "Resources"
-    url: /p/links.html
-  - title: "Archive"
-    url: /archive.html
+  - title: "Cloud"
+    url: /p/cloud.html
+  - title: "Security"
+    url: /p/security.html
+  - title: "About"
+    url: /about.html
+#  - title: "Resources"
+#    url: /p/links.html
+#  - title: "Archive"
+#    url: /archive.html
 #  - title: "Categories"
 #    url: /categories/
 #  - title: "Collections"
