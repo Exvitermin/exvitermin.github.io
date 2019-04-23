@@ -1,4 +1,4 @@
-# LazyWinAdmin blog
+# RicardoGarrido blog
 
 Blog of Ricardo Garrido @ricardosantosgarrido. My focus is on Architecture, Configuration and Security in the Hybrid Cloud
 

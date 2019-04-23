@@ -15,14 +15,14 @@
 minimal_mistakes_skin    : "default" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "pt-PT"
 title                    : "Architecture, Configuration and Security in the Hybrid Cloud"
 title_separator          : "-"
 name                     : "John Doe"
 description              : "Scripting and Automation"
 url                      : https://itops.pt # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : Ricardo-Garrido/Ricardo-Garrido.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : ricardo-garrido/ricardo-garrido.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/powershell.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -68,8 +68,8 @@ reCaptcha:
 # https://staticman.net/docs/encryption
 
 
-atom_feed:
-  path                   : 'https://feeds.feedburner.com/lazywinadmin' # blank (default) uses feed.xml
+#atom_feed:
+#  path                   : 'https://feeds.feedburner.com/#' # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -106,7 +106,7 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-23373830-3"
+    tracking_id          : "UA-102603271-1"
     anonymize_ip         : # true, false (default)
 
 
@@ -129,19 +129,19 @@ author:
 #      url: "https://mvp.microsoft.com/en-us/PublicProfile/X"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/lazywinadmin"
+      url: "https://twitter.com/ricardosantosgarrido"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/lazywinadmin"
+      url: "https://github.com/ricardo-garrido"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/fxcat/"
-    - label: "RSS"
-      icon: "fas fa-fw fa-rss-square"
-      url: "https://feeds.feedburner.com/lazywinadmin"
+      url: "https://www.linkedin.com/in/ricardosantosgarrido/"
+#    - label: "RSS"
+#      icon: "fas fa-fw fa-rss-square"
+#      url: "https://feeds.feedburner.com/#"
 
 # Site Footer
 footer:
@@ -154,7 +154,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/lazywinadmin"
+      url: "https://github.com/ricardo-garrido"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -322,5 +322,5 @@ custom:
     authorname: false
     publisheddate: true
     edit: true
-  link:
-    rssfeed: "http://feeds.feedburner.com/lazywinadmin"
+#  link:
+#    rssfeed: "http://feeds.feedburner.com/#"
