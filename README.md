@@ -1,6 +1,6 @@
 # LazyWinAdmin blog
 
-Blog of Francois-Xavier Cat @lazywinadmin. This focus on Automation and Orchestration of tasks.
+Blog of Ricardo Garrido @ricardosantosgarrido. My focus is on Architecture, Configuration and Security in the Hybrid Cloud
 
 ## Theme: Minimal Mistakes
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
